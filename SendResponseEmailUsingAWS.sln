@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SendResponseEmailUsingAWS", "SendResponseEmailUsingAWS.csproj", "{A9991436-E1B7-420F-B5D7-1600E28815E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsLibrary", "..\AwsLibrary\AwsLibrary.csproj", "{97D1E47D-9DCC-4793-AEBD-3727D7F91215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9991436-E1B7-420F-B5D7-1600E28815E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9991436-E1B7-420F-B5D7-1600E28815E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9991436-E1B7-420F-B5D7-1600E28815E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9991436-E1B7-420F-B5D7-1600E28815E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D1E47D-9DCC-4793-AEBD-3727D7F91215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D1E47D-9DCC-4793-AEBD-3727D7F91215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D1E47D-9DCC-4793-AEBD-3727D7F91215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D1E47D-9DCC-4793-AEBD-3727D7F91215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18982656-1D13-4A51-9C62-A9A6F65B8418}
+	EndGlobalSection
+EndGlobal
