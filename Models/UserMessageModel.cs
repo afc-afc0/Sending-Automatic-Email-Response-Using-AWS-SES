@@ -4,7 +4,7 @@ namespace SendResponseEmailUsingAWS
     using System.ComponentModel.DataAnnotations;
     using Microsoft.AspNetCore.Mvc;
 
-    public class UserEmailModel
+    public class UserMessageModel
     {
         [DisplayName("Name")]
         [StringLength(128)]
