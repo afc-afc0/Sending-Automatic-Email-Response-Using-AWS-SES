@@ -1,12 +1,12 @@
 # Sending-Automatic-Email-Response-Using-AWS-SES
 
-Created an email service for freelance Appointment Website project.
+Created an email service for freelance project.
 
 1) We get the user input from Razor Page
-2) After the routing and the data binding we control if the data is valid
-3) We send the validated data to AWSLibrary
-4) Using AWS SDK we send data to SES(Simple Email Service)
-5) SES sends the email to S3 storage
+2) After the routing and the data binding, we control if the data is valid through data annotations
+3) Controller sends the validated data to AWSLibrary
+4) With AWS SDK, we send data to SES(Simple Email Service)
+5) SES sends the email to S3 for storage 
 6) Client gets the response
 
 
