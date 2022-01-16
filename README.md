@@ -1,6 +1,6 @@
 # Sending-Automatic-Email-Response-Using-AWS-SES
 
-Created an email service for freelance project.
+Created an email service for a project.
 
 1) We get the user input from Razor Page
 2) After the routing and the data binding, we control if the data is valid through data annotations
